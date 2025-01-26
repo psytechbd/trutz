@@ -1,0 +1,25 @@
+.bg-gray{
+    background: #136192;
+}
+
+/* .card{
+    height: 250px;
+} */
+
+.card h4{
+    background: #2FC190;
+}
+
+.bg-vat{
+    background: #136192 !important;
+}
+
+audio {
+    user-select: none;
+    /* pointer-events: none; */
+    width: 100%;
+}
+
+video {
+    user-select: none;
+}
